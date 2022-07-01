@@ -66,19 +66,10 @@ To get a local copy up and running follow these simple example steps.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- CONTRIBUTORS -->
-## Contributors
-* Hriday Kondru (B20CS021): Frontend Code Design and Development, Automated Test Script Development
-* Rohit (B20CS055): UI Design and Development
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
-* Hriday Kondru (B20CS021) - [kondru.1@iitj.ac.in](mailto:kondru.1@iitj.ac.in)
-* Rohit (B20CS055) - [rohit.3@iitj.ac.in](mailto:rohit.3@iitj.ac.in)
+Hriday Kondru (B20CS021) - [kondru.1@iitj.ac.in](mailto:kondru.1@iitj.ac.in), [hridaykondru@outlook.com](mailto:hridaykondru@outlook.com)
 
 Project Link: [https://github.com/hridaykondru/SE_project](https://github.com/hridaykondru/SE_project)
 
